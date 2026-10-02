@@ -19,7 +19,7 @@ It runs as a command-line program and as a Streamlit web app.
 
 Command line:
 ```bash
-git clone https://github.com/<your-username>/python-calculator.git
+git clone https://github.com/ebaadtemuri/python-calculator.git
 cd python-calculator
 python calculator.py
 ```
@@ -47,4 +47,4 @@ python-calculator/
 ```
 
 ## Author
-Your Name — Your University, Course Name
+Ebad Temuri — UITU, Parrallel & Distributed Computing
